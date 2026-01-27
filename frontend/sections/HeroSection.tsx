@@ -25,14 +25,14 @@ export default function HeroSection() {
    
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
           <a
-            href="/auth/signup"
+            href="/signup"
             className="rounded-full bg-green-500 px-8 py-3 font-medium text-black hover:bg-green-400 transition"
           >
             Start Your Journey 
           </a>
 
           <a
-            href="/auth/login"
+            href="/login"
             className="rounded-full border border-white/20 px-8 py-3 font-medium text-white hover:bg-white/5 transition"
           >
             I already have an account

@@ -68,7 +68,7 @@ export default function CTASection() {
          
           <div className="relative z-10 shrink-0">
             <a
-              href="/auth/signup"
+              href="/signup"
               className="
                 inline-flex items-center gap-2
                 rounded-full bg-green-500
